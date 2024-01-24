@@ -7,9 +7,8 @@ import data from "./data.json"
 // calculation mean
 function calculateMean(data, property) {
   const sum = data.reduce((acc, entry) => acc + entry[property], 0);
-  return sum / data.length;
+  return parseInt(sum) / data.length;
 }
-
 // calculation median
 function calculateMedian(data, property) {
   const sortedData = data.map(entry => entry[property]).sort((a, b) => a - b);
@@ -82,6 +81,7 @@ function calculateGamma(data) {
 
 const dataWithGamma = calculateGamma(data);
 const flavanoidsStats = calculateClasswiseStats(data, 'Flavanoids');
+console.log(flavanoidsStats)
 const gammaStats = calculateClasswiseStats(dataWithGamma, 'Gamma');
 
 function DisplayTable(stats, property) {
