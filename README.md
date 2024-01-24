@@ -16,4 +16,11 @@ After buld this project we need to go in the project directory and run the proje
 
 We have to follow these steps.
 
-`git clone `
+`git clone https://github.com/Gautam9958/Manufac.git`
+
+`yarn install`
+
+`yarn start`
+
+## Screenshot
+![Screenshot from 2024-01-24 12-09-29](https://github.com/Gautam9958/Manufac/assets/77527062/b87e9a95-da50-4752-8134-b55bf1b462c9)
