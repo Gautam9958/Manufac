@@ -23,7 +23,7 @@ We have to follow these steps.
 `yarn start`
 
 ## Screenshot
-file:///home/gautam/Pictures/Screenshots/Screenshot%20from%202024-01-25%2000-27-03.png
 
+![Screenshot from 2024-01-25 00-27-03](https://github.com/Gautam9958/Manufac/assets/77527062/09a5f669-d2fe-4d68-8761-ae748bd95375)
 
 
