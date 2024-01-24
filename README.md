@@ -23,4 +23,4 @@ We have to follow these steps.
 `yarn start`
 
 ## Screenshot
-![Screenshot from 2024-01-24 12-09-29](https://github.com/Gautam9958/Manufac/assets/77527062/b87e9a95-da50-4752-8134-b55bf1b462c9)
+![Alt text](<Screenshot from 2024-01-24 14-44-06.png>)
