@@ -23,4 +23,4 @@ We have to follow these steps.
 `yarn start`
 
 ## Screenshot
-![Alt text](<Screenshot from 2024-01-24 14-44-06.png>)
+
