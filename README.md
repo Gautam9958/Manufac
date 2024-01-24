@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This is a test project in which we are calculating the Mean,Median,Mode. By the help of this [https://drive.google.com/file/d/1td86FL0GyVYcKBUGY-8HX_wgeSDxWAsa/view](data.json)
+This is a test project in which we are calculating the Mean,Median,Mode. By the help of this [data.json](https://drive.google.com/file/d/1td86FL0GyVYcKBUGY-8HX_wgeSDxWAsa/view)
 
 ## Steps to build project
 
