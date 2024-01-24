@@ -23,7 +23,7 @@ We have to follow these steps.
 `yarn start`
 
 ## Screenshot
-![Uploading Screenshot from 2024-01-25 00-27-03.png…]()
+file:///home/gautam/Pictures/Screenshots/Screenshot%20from%202024-01-25%2000-27-03.png
 
 
 
