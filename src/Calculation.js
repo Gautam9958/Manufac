@@ -6,8 +6,8 @@ import data from "./data.json"
 
 // calculation mean
 function calculateMean(data, property) {
-  const sum = data.reduce((acc, entry) => acc + entry[property], 0);
-  return parseInt(sum) / data.length;
+  const sum = data.reduce((acc, entry) => acc + parseFloat(entry[property]), 0);
+  return sum / data.length;
 }
 // calculation median
 function calculateMedian(data, property) {
